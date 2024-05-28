@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 B.Tech in Computer Science (AI & ML) graduate from Techno India University<br>- 🤖 Passionate about Artificial Intelligence and Machine Learning<br>- 🛠️ Building innovative AI ML chatbots & resume advisors<br>- 💡 GDSC TIU Hackathon Participant<br>- 📊 Dedicated to Data Science and continuous learning<br>- 🌟 Committed to promoting creativity, innovation, and cultural diversity<br>- 🔗 LinkedIn- https://www.linkedin.com/in/krish-goenka-41393a243
+- 🎓 B.Tech in Computer Science (AI & ML) student from Techno India University<br>- 🤖 Passionate about Artificial Intelligence and Machine Learning<br>- 🛠️ Building innovative AI ML chatbots & resume advisors<br>- 💡 GDSC TIU & Ai Unite Hackathon Participant<br>- 📊 Dedicated to Data Science and continuous learning<br>- 🌟 Committed to promoting creativity, innovation, and cultural diversity
 
 
 ## 🌐 Socials:
