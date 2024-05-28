@@ -17,14 +17,15 @@
                                                                                                                                                               
 
 
-![giphy](https://github.com/Krishgoenka/krishgoenka/assets/158496764/a6393f6f-dfb7-498b-8322-7fe21d46dd44)     ![giphy (1)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/5f29fc32-bcef-4383-a723-50f1ba7b6f9a)
+![giphy](https://github.com/Krishgoenka/krishgoenka/assets/158496764/a6393f6f-dfb7-498b-8322-7fe21d46dd44)     
 
 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishgoenka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishgoenka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgoenka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgoenka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)     ![giphy (1)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/1c1db48a-0a57-4286-a9e5-ea365e2562af)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krishgoenka&limit=5&theme=dark&combine_all_yearly_contributions=true)
