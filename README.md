@@ -9,8 +9,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/krish-goenka-41393a243)
 [![X]( https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white )](https://x.com/Krish_011_?t=gC4oegjo7rwk2VdzezjHiA&s=09)   
-![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
-
+![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
                                                           
 
 
@@ -27,15 +26,13 @@
 ![giphy](https://github.com/Krishgoenka/krishgoenka/assets/158496764/a6393f6f-dfb7-498b-8322-7fe21d46dd44)  ![giphy (4)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/3628038b-c619-42c0-b4ba-0b56cf567fd1)
 
 
-![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
-
-
+![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishgoenka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=krishgoenka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishgoenka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)    
-![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
+![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krishgoenka&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -46,6 +43,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=krishgoenka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
+![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
 
 
