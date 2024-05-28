@@ -16,7 +16,10 @@
 
                                                                                                                                                               
 
+
 ![giphy](https://github.com/Krishgoenka/krishgoenka/assets/158496764/a6393f6f-dfb7-498b-8322-7fe21d46dd44)
+
+![giphy (1)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/5f29fc32-bcef-4383-a723-50f1ba7b6f9a)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishgoenka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
