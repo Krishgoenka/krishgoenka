@@ -4,6 +4,7 @@
 
 # 💫 Hey there I am Krish Goenka:
 - 🎓 B.Tech in Computer Science (AI & ML) student from Techno India University<br>- 🤖 Passionate about Artificial Intelligence and Machine Learning<br>- 🛠️ Building innovative AI ML chatbots & resume advisors<br>- 💡 GDSC TIU & Ai Unite Hackathon Participant<br>- 📊 Dedicated to Data Science and continuous learning<br>- 🌟 Committed to promoting creativity, innovation, and cultural diversity
+
 📝Portfolio - https://krish-goenkas-portfolio-p71st3p.gamma.site/
 
 [![](https://visitcount.itsvg.in/api?id=krishgoenka&icon=0&color=0)](https://visitcount.itsvg.in)
