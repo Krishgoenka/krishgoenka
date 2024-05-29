@@ -8,7 +8,7 @@
 [![](https://visitcount.itsvg.in/api?id=krishgoenka&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## 🌐 Socials:
+## 🌐 Stay Connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/krish-goenka-41393a243)
 [![X]( https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white )](https://x.com/Krish_011_?t=gC4oegjo7rwk2VdzezjHiA&s=09)   
 ![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
