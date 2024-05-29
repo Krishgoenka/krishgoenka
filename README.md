@@ -2,7 +2,7 @@
 <img src="https://github.com/Krishgoenka/krishgoenka/assets/158496764/6858479e-b291-47db-94d1-48ec5dcc0e6e" width="100%" height="100%">
 
 
-# 💫 About Me:
+# 💫 Hello I am Krish Goenka:
 - 🎓 B.Tech in Computer Science (AI & ML) student from Techno India University<br>- 🤖 Passionate about Artificial Intelligence and Machine Learning<br>- 🛠️ Building innovative AI ML chatbots & resume advisors<br>- 💡 GDSC TIU & Ai Unite Hackathon Participant<br>- 📊 Dedicated to Data Science and continuous learning<br>- 🌟 Committed to promoting creativity, innovation, and cultural diversity
 
 
