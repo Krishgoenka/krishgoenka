@@ -27,10 +27,6 @@
                                                                                                                                                               
 
 
-![giphy](https://github.com/Krishgoenka/krishgoenka/assets/158496764/a6393f6f-dfb7-498b-8322-7fe21d46dd44)  ![giphy (4)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/3628038b-c619-42c0-b4ba-0b56cf567fd1)
-
-
-![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishgoenka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
