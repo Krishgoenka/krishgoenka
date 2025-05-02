@@ -42,5 +42,8 @@
 
 
 ![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
+<img src ="https://github.com/user-attachments/assets/03a448af-a0bd-4196-9411-41580e493817" widht="100%" height="100%" >
+
+
 
 
