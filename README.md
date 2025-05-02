@@ -2,8 +2,41 @@
 <img src="https://github.com/user-attachments/assets/4fbbf23e-c27d-4111-bcbe-08bd045f51d3" width="100%" height="100%">
 
 
-# 💫 Hey there I am Krish Goenka:
-- 🎓 B.Tech in Computer Science (AI & ML) student from Techno India University<br>- 🤖 Passionate about Artificial Intelligence and Machine Learning<br>- 🛠️ Building innovative AI ML chatbots & resume advisors<br>- 💡 GDSC TIU & Ai Unite Hackathon Participant<br>- 📊 Dedicated to Data Science and continuous learning<br>- 🌟 Committed to promoting creativity, innovation, and cultural diversity
+# 👋 Hey there, I'm Krish Goenka
+
+Welcome to my digital space! I'm a B.Tech student specializing in **Computer Science (AI & ML)** at **Techno India University** — deeply passionate about solving real-world problems with cutting-edge AI.
+
+## 🚀 What I Do
+
+- 🔬 Research & development in **Artificial Intelligence**, **Machine Learning**, and **Generative AI**
+- 🧠 Building with models like **LSTMs**, **YOLOv10**, **Transformers**, and exploring **Agentic AI**
+- 💬 Creating intelligent systems: **chatbots**, **resume advisors**, and **live-sensing AI solutions**
+- 📈 Leveraging **data science**, **prompt engineering**, and **multi-modal learning** for innovation
+
+## 🏆 Hackathons & Initiatives
+
+- 💡 **AI Unite Hackathon** – Finalist  
+- 🛰️ **ISRO Hackathon** – Team Participant  
+- 🛠️ **Smart India Hackathon (SIH)** – Problem Solver  
+- 🌐 **GDSC TIU Hackathons**, **GenAI Study Jams** – Active Contributor  
+- ...and many more!
+
+## 🌟 Core Values
+
+- 🔄 Continuous learning & upskilling  
+- 🌍 Innovation for social good  
+- 🤝 Collaboration and open-source mindset  
+- 🎨 Promoting creativity, diversity, and inclusion in tech  
+
+## 📫 Let’s Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+- [GitHub](https://github.com/yourusername)  
+- Email: goenkakrish02@gmail.com  
+
+---
+
+> "Engineering the future with code, data, and vision."  
 
 📝Portfolio - https://krish-goenkas-portfolio-p71st3p.gamma.site/
 
@@ -41,8 +74,6 @@
 ---
 
 
-![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
-<img src ="https://github.com/user-attachments/assets/03a448af-a0bd-4196-9411-41580e493817" widht="100%" height="100%" >
 
 
 
