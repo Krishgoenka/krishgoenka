@@ -28,13 +28,6 @@ Welcome to my digital space! I'm a B.Tech student specializing in **Computer Sci
 - 🤝 Collaboration and open-source mindset  
 - 🎨 Promoting creativity, diversity, and inclusion in tech  
 
-## 📫 Let’s Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [GitHub](https://github.com/yourusername)  
-- Email: goenkakrish02@gmail.com  
-
----
 
 > "Engineering the future with code, data, and vision."  
 
@@ -46,6 +39,7 @@ Welcome to my digital space! I'm a B.Tech student specializing in **Computer Sci
 ## 🌐 Stay Connected:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/krish-goenka-41393a243)
 [![X]( https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white )](https://x.com/Krish_011_?t=gC4oegjo7rwk2VdzezjHiA&s=09)   
+ Email: goenkakrish02@gmail.com  
 ![giphy (3)](https://github.com/Krishgoenka/krishgoenka/assets/158496764/fe60fe83-e359-43f2-a2f4-cd18f1a02941)
                                                           
 
