@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Krishgoenka/krishgoenka/assets/158496764/6858479e-b291-47db-94d1-48ec5dcc0e6e" width="100%" height="100%">
+<img src="https://github.com/user-attachments/assets/4fbbf23e-c27d-4111-bcbe-08bd045f51d3" width="100%" height="100%">
 
 
 # 💫 Hey there I am Krish Goenka:
